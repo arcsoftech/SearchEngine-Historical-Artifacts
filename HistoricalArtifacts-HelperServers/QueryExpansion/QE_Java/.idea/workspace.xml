@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3beddc5b-f84b-4c10-ae04-1baeb78cfe89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b5LHaxZG4AoHUnx50GT7hATIPN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11 (1)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="QueryExpansionHistoricalArtifacts.Application" />
+      <module name="QE_Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QueryExpansionHistoricalArtifacts.Clustering" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="QE_Java.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="QueryExpansionHistoricalArtifacts.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3beddc5b-f84b-4c10-ae04-1baeb78cfe89" name="Default Changelist" comment="" />
+      <created>1556260553859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556260553859</updated>
+      <workItem from="1587916926277" duration="7588000" />
+      <workItem from="1587938773394" duration="1472000" />
+      <workItem from="1587952700212" duration="608000" />
+      <workItem from="1588116622520" duration="1619000" />
+      <workItem from="1588134326882" duration="7487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="4" key="#Application" timestamp="1587938800552">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="360" y="4" key="#Application/0.0.1280.689@0.0.1280.689" timestamp="1587938800552" />
+    <state x="233" y="4" key="#Project_Structure" timestamp="1587917440816">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="4" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1587917440816" />
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588137441602">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1588137441602" />
+    <state x="421" y="51" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587917480916">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="51" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.689@0.0.1280.689" timestamp="1587917480916" />
+    <state x="186" y="101" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1588137900849">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="186" y="101" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1280.689@0.0.1280.689" timestamp="1588137900849" />
+    <state width="412" height="438" key="DebuggerActiveHint" timestamp="1588137926613">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="412" height="438" key="DebuggerActiveHint/0.0.1280.689@0.0.1280.689" timestamp="1588137926613" />
+    <state width="1222" height="139" key="GridCell.Tab.0.bottom" timestamp="1588171607664">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="139" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588171607664" />
+    <state width="1222" height="139" key="GridCell.Tab.0.center" timestamp="1588171607664">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="139" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1588171607664" />
+    <state width="1222" height="139" key="GridCell.Tab.0.left" timestamp="1588171607664">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="139" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1588171607664" />
+    <state width="1222" height="139" key="GridCell.Tab.0.right" timestamp="1588171607664">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1222" height="139" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1588171607664" />
+    <state width="1237" height="192" key="GridCell.Tab.1.bottom" timestamp="1588171607649">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588171607649" />
+    <state width="1237" height="192" key="GridCell.Tab.1.center" timestamp="1588171607649">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1588171607649" />
+    <state width="1237" height="192" key="GridCell.Tab.1.left" timestamp="1588171607649">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1588171607649" />
+    <state width="1237" height="192" key="GridCell.Tab.1.right" timestamp="1588171607649">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1588171607649" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588116945959">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1588116945959" />
+    <state x="362" y="87" width="540" height="524" key="StructurePopup" timestamp="1588139148408">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="362" y="87" width="540" height="524" key="StructurePopup/0.0.1280.689@0.0.1280.689" timestamp="1588139148408" />
+    <state x="337" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1588134405649">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="337" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1588134405649" />
+    <state x="336" y="77" width="609" height="536" key="find.popup" timestamp="1587919402744">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="336" y="77" width="609" height="536" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1587919402744" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1587922470909">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1587922470909" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/AssociationCluster.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/AssociationCluster.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/Clustering.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/Clustering.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/AssociationCluster.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/AssociationCluster.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/Clustering.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryExpansionHistoricalArtifacts/Clustering.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QE_Java$Application.ic" NAME="Application Coverage Results" MODIFIED="1588135814015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>QueryExpansionHistoricalArtifacts.Clustering</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>query_tokens[i]+&quot;,&quot;+query_tokens[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(sorted_struct.getValue().term2.equals(query_tokens[i]+&quot;,&quot;+query_tokens[i]))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(sorted_struct.getValue().term2.equals(query_tokens[i]))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(sorted_struct.getValue().term2.matches(query_tokens[i]))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!(sorted_struct.getValue().term2.matches(query_tokens[i]))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>content.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>content</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

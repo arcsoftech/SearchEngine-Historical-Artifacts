@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Historical Artifacts</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
+</head>
+<script src="js/main.js"></script>
+
+<body>
+    <div class="wrapper">
+        <div class="headerbar"><img class="logo" src='css/logo.png' / style="height:70%;margin-top:2%;margin-left:20%">
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="with-nav-tabs">
+
+                        <div class="panel-heading">
+                            <div class="search">
+                                <div class="searchPanel">
+                                    <div id="custom-search-input">
+                                        <div class="input-group col-md-12">
+                                            <input id="query" type="text" class="  search-query form-control"
+                                                placeholder="Search" />
+                                            <span class="input-group-btn">
+                                                <button id="searchButton" class="btn btn-danger" type="button">
+                                                    Search
+                                                </button>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="space"></div>
+                            <div>
+
+                                <ul class="nav nav-tabs">
+
+                                    <li id="tab2"><a data-toggle="tab">Google</a></li>
+                                    <li id="tab3"><a data-toggle="tab">Bing</a></li>
+                                    <li class="active" id="tab1"><a data-toggle="tab">Pagerank</a></li>
+                                    <li id="tab11"><a data-toggle="tab">Hits</a></li>
+                                    <li id="tab12"><a data-toggle="tab" id="clusterTab1">K-means</a></li>
+                                    <li id="tab13"><a data-toggle="tab" id="clusterTab2">AverageAgg</a></li>
+                                    <li id="tab14"><a data-toggle="tab" id="clusterTab3">SingleAgg</a></li>
+                                    <li id="tab15"><a data-toggle="tab" id="clusterTab4">CompletAgg</a></li>
+                                    <li id="tab19"><a data-toggle="tab" id="qexprcTab">QE-Rochio</a></li>
+                                    <li id="tab16"><a data-toggle="tab" id="qexpmcTab">QE-Metric</a></li>
+                                    <li id="tab17"><a data-toggle="tab" id="qexpacTab">QE-Association</a></li>
+                                    <li id="tab18"><a data-toggle="tab" id="qexpscTab">QE-Scalar</a></li>
+
+                                </ul>
+
+                            </div>
+                        </div>
+
+
+                        <div class="panel-body hideme">
+
+
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active" id="tab1default">
+                                    <div class="container">
+                                        <div class="pagerank" id="web-content"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in " id="tab2default">
+                                    <div class="container">
+                                        <div class="google" id="web-content"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in " id="tab3default">
+                                    <div class="container">
+                                        <div class="bing" id="web-content"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab11default">
+                                    <div class="container">
+                                        <div class="hits" id="web-content"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab12default">
+                                    <div class="container">
+                                        <button type="button" class="btn btn-info" data-toggle="collapse"
+                                            data-target="#kmeanchart">Cluster Chart</button>
+                                        <div id="kmeanchart" class="collapse">
+                                            <div class="chart-container">
+                                                <canvas id="kmean"></canvas>
+                                            </div>
+                                        </div>
+
+                                        <div class="container">
+                                            <div class="kmeanContent" id="web-content"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab13default">
+                                    <div class="container">
+
+
+                                        <button type="button" class="btn btn-info" data-toggle="collapse"
+                                            data-target="#aggchart">Cluster Chart</button>
+                                        <div id="aggchart" class="collapse">
+                                            <div class="chart-container">
+                                                <canvas id="agg"></canvas>
+                                            </div>
+                                        </div>
+                                        <div class="container">
+                                            <div class="aggContent" id="web-content"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab14default">
+                                    <div class="container">
+
+
+
+
+                                        <button type="button" class="btn btn-info" data-toggle="collapse"
+                                            data-target="#singlechart">Cluster Chart</button>
+                                        <div id="singlechart" class="collapse">
+                                            <div class="chart-container">
+                                                <canvas id="single"></canvas>
+                                            </div>
+                                        </div>
+
+
+
+
+
+                                        <div class="container">
+                                            <div class="singleContent" id="web-content"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab15default">
+                                    <div class="container">
+
+
+
+
+
+                                        <button type="button" class="btn btn-info" data-toggle="collapse"
+                                            data-target="#completechart">Cluster Chart</button>
+                                        <div id="completechart" class="collapse">
+                                            <div class="chart-container">
+                                                <canvas id="complete"></canvas>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="container">
+                                            <div class="completeContent" id="web-content"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab16default">
+                                    <div class="container">
+                                        <div class="qexpmc" id="web-content"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab17default">
+                                    <div class="container">
+                                        <div class="qexpac" id="web-content"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab18default">
+                                    <div class="container">
+                                        <div class="qexpsc" id="web-content"></div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade in active" id="tab19default">
+                                    <div class="container">
+                                        <div class="qexprc" id="web-content"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    </div>
+    <div id="progressMessage" style="display:none; padding:5px; padding-top:100px;">
+        <div id="activityIndicator">&nbsp;</div>
+    </div>
+    <br />
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
