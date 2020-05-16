@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Association Clustering
+ */
 package QueryExpansionHistoricalArtifacts;
 import java.util.*;
 import java.util.stream.Collectors;

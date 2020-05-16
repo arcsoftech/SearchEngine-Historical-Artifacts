@@ -1,3 +1,7 @@
+
+/**
+ * Schema for solr response
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

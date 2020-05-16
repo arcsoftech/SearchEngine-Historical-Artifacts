@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Schema for solr response header
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Schema for Query Params
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

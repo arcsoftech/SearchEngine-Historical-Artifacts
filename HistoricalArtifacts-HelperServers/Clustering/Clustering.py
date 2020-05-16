@@ -1,3 +1,8 @@
+
+"""
+Author-Arihant Chhajed
+Description:- Program to cluster search result using various algorithms.
+"""
 import re
 import json
 from flask import Flask, request

@@ -1,5 +1,8 @@
 
-
+/**
+ * @author Arihant Chhajed
+ * Rocchio Algorithm for Query expansion
+ */
 
 package QueryExpansionHistoricalArtifacts;
 

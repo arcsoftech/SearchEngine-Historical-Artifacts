@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Response structure
+ */
 package QueryExpansionHistoricalArtifacts;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

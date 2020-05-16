@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Metric Clustering
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import java.util.*;

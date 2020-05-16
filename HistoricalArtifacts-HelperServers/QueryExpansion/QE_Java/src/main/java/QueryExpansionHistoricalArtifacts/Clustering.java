@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Query expansion using clustering
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

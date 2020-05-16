@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Clustering controller
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import java.util.concurrent.atomic.AtomicLong;

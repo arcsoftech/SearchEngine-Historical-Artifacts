@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Schema for response
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import java.util.List;

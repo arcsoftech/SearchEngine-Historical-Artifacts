@@ -1,3 +1,8 @@
+
+"""
+Author-Arihant Chhajed
+Description:- Program to rank search result using hits and pageranking.
+"""
 from flask import Flask, request
 import operator
 from flask_restful import Resource, Api

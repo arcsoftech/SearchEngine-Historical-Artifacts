@@ -1,3 +1,7 @@
+/**
+ * @author Arihant Chhajed
+ * Query doc 
+ */
 package QueryExpansionHistoricalArtifacts;
 
 import java.util.HashMap;
@@ -10,7 +14,6 @@ public class QueryDoc {
 
     public QueryDoc() {
         this.stems = new HashMap<String, Integer>();
-
 
     }
 }
